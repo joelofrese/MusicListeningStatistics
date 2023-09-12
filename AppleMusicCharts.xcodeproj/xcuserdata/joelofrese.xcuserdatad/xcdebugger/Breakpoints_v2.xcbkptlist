@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2B3650F5-F8C4-4533-B8C8-3E5A4CE85056"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "70AA5FFC-CCBF-4E46-BC70-58E428E671D2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppleMusicCharts/Background/GetData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "getArtistData(Artist:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "70AA5FFC-CCBF-4E46-BC70-58E428E671D2 - 2932b8b70ceda660"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) suspend resume partial function for AppleMusicCharts.getArtistData(Artist: inout AppleMusicCharts.Artist) async -&gt; ()"
+                  moduleName = "AppleMusicCharts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/joelofrese/Library/Mobile%20Documents/com~apple~CloudDocs/Code/Joe%20Xcode/AppleMusicCharts/AppleMusicCharts/Background/GetData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "772">
+               </Location>
+               <Location
+                  uuid = "70AA5FFC-CCBF-4E46-BC70-58E428E671D2 - cbcef7c91c66d51a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) await resume partial function for AppleMusicCharts.getArtistData(Artist: inout AppleMusicCharts.Artist) async -&gt; ()"
+                  moduleName = "AppleMusicCharts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/joelofrese/Library/Mobile%20Documents/com~apple~CloudDocs/Code/Joe%20Xcode/AppleMusicCharts/AppleMusicCharts/Background/GetData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "70AA5FFC-CCBF-4E46-BC70-58E428E671D2 - b831ce28e28b5a62"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for AppleMusicCharts.getArtistData(Artist: inout AppleMusicCharts.Artist) async -&gt; ()"
+                  moduleName = "AppleMusicCharts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/joelofrese/Library/Mobile%20Documents/com~apple~CloudDocs/Code/Joe%20Xcode/AppleMusicCharts/AppleMusicCharts/Background/GetData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "384">
+               </Location>
+               <Location
+                  uuid = "70AA5FFC-CCBF-4E46-BC70-58E428E671D2 - 70bea91e3397b863"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for AppleMusicCharts.getArtistData(Artist: inout AppleMusicCharts.Artist) async -&gt; ()"
+                  moduleName = "AppleMusicCharts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/joelofrese/Library/Mobile%20Documents/com~apple~CloudDocs/Code/Joe%20Xcode/AppleMusicCharts/AppleMusicCharts/Background/GetData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "124">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
