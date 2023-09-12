@@ -17,9 +17,9 @@ struct AppleMusicChartsApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView(artists: $artists)
-//                .task {
-//                    await getArtistsData(Artists: &artists)
-//                }
+                .task {
+                    await getArtistsData(Artists: &artists)
+                }
         }
     }
 }

@@ -9,6 +9,7 @@ import Foundation
 import MusicKit
 import UIKit
 
+// Gets Artist data from Apple Music for each Artist
 func getArtistsData(Artists: inout [Artist]) async -> Void {
     
     await MusicAuthorization.request()
@@ -19,6 +20,7 @@ func getArtistsData(Artists: inout [Artist]) async -> Void {
     
 }
 
+// Gets Artist data from Apple Music for Artist
 func getArtistData(Artist: inout Artist) async -> Void {
     
     if Artist.found {

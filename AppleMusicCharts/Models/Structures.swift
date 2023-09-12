@@ -59,23 +59,3 @@ struct Song: Identifiable {
         found = false
     }
 }
-
-// Song structure
-//struct ArtistSong: Identifiable {
-//
-//    // Declare variables
-//    var id: UUID
-//    var name: String
-//    var genre: String
-//    var plays: Int
-//    var found: Bool
-//
-//    // Initialize variables
-//    init() {
-//        id = UUID()
-//        name = ""
-//        genre = ""
-//        plays = 0
-//        found = false
-//    }
-//}
