@@ -19,8 +19,10 @@ Retrieves artist and song data from Apple MusicKit API.
 
 ### CSV Test 4 copy.csv
 - Full test, 127,000+ lines.
+- Default test.
 - My own personal Apple Music data from 2020, enjoy Beabadoobee!
 
 ### CSV Test 7 copy.csv
 - Short test, 100+ lines.
+- Edit getTotals() (at the beginning, reading the CSV) to switch to this test.
 - Taken from the beginning of own personal Apple Music data from 2020, live love 2010s pop!
