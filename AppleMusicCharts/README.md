@@ -8,7 +8,7 @@ This is the main program of the code, and calls the necessary functions for the 
 3. Calls getArtistsData to get artist and song data from Apple MusicKit API.
 
 ### Background
-Contains the functions for processing the user data and obtaining data from Apple MUsicKit API.
+Contains the functions for processing the user data and obtaining data from Apple MUsicKit API, along with the CSVs for testing.
 
 ### Models
 Contains the structs used in the program.
